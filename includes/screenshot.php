@@ -3,7 +3,7 @@
 
 
 
-class MatchScreenshot{
+class Screenshot{
 
     private $gameName;
     private $mid;
