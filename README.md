@@ -1,6 +1,6 @@
 # UTstats client side screenshots plugin
 
-Utstats screenshots is a plugin for UTStats(Version 428) for the original Unreal Tournament, that adds match screenshots for support gametypes, on match report pages.
+Utstats screenshots is a plugin for UTStats(Version 428) for the original Unreal Tournament, this plugin adds match screenshots for support gametypes on match report pages.
 
 
 
@@ -24,3 +24,11 @@ Now to add the module to your pages/match_info.php file:
 # How to add screenshots
 - To add new screenshots for different maps simply take a screenshot in game, convert it to a .jpg file and save it as the map files name in lowercase, e.g CTF-Face.unr will be ctf-face.jpg.
 - Place the new image file into the images/sshots/ folder.
+
+
+
+
+
+# Examples
+
+![alt text](https://i.imgur.com/JKVDnGf.png)
