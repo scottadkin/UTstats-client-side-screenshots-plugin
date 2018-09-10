@@ -1,6 +1,7 @@
 # UTstats client side screenshots plugin
 
 Utstats screenshots is a plugin for UTStats(Version 428) for the original Unreal Tournament, this plugin adds match screenshots for support gametypes on match report pages.
+The screenshots are created by a HTML5 canvas using javascript client side and are forced to a 16:9 ratio.
 
 
 
@@ -26,9 +27,31 @@ Now to add the module to your pages/match_info.php file:
 - Place the new image file into the images/sshots/ folder.
 
 
+# Supported game types
 
+- tournament team game
+- tournament team game (insta)
+- tournament deathmmatch
+- tournament deathmatch (insta)
+- last man standing
+- last man standing (insta)
+- domination
+- domination (insta)
+- capture the flag
+- capture the flag (insta)
+- assault
+- assault (insta)
 
 
 # Examples
 
+-CTF match
 ![alt text](https://i.imgur.com/JKVDnGf.png)
+-DM match
+![alt text](https://i.imgur.com/vH8KQ4C.png)
+-Team deathmatch/domination match (4 teams)
+![alt text](https://i.imgur.com/dqLQHy8.png)
+-Team deathmatch/domination match (3 teams)
+![alt text](https://i.imgur.com/OsqaqhD.png)
+-Team deathmatch/domination match (2 teams)
+![alt text](https://i.imgur.com/MCLkeJI.png)
